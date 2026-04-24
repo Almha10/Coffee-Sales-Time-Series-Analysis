@@ -34,7 +34,7 @@ To explore patterns in coffee sales data and build forecasting models to predict
 ## 🎥 Presentation
 This project was presented as part of a final presentation demonstrating insights and forecasting results.
 
-## 🚀 Future Improvements
-- Deploy as an interactive dashboard
-- Apply advanced forecasting models (ARIMA, Prophet)
-- Real-time data integration
+## This project can be extended into a real-world business solution by:
+- Deploy the model as an interactive dashboard (Streamlit / Power BI)
+- Implement advanced forecasting models (ARIMA, Prophet)
+- Integrate real-time data for continuous predictions
