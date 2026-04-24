@@ -2,7 +2,7 @@
 ## 📂 Project Files
 - Notebook: Coffee_Sales_Time_Series_Analysis.ipynb
 - Dataset: Coffe_sales.xlsx
-- Presentation: Black and White Minimalist Coffee Shop Presentation.pdf
+- Presentation: [Coffee_Sales_Presentation](https://drive.google.com/file/d/1GUfxZtyeQtTWkKgyvhVd8wKH96qmQzhE/view?usp=sharing)
 
 ## 📌 Project Overview
 This project analyzes and predicts coffee sales using time series models.  
